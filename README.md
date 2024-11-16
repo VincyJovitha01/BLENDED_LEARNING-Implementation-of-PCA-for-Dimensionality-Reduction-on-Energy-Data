@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/64fe27d0-9dc6-4016-889e-1f798d24d1e8)# BLENDED LEARNING
+# BLENDED LEARNING
 # Implementation of Principal Component Analysis (PCA) for Dimensionality Reduction on Energy Data
 
 ## AIM:
