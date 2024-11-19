@@ -1,6 +1,5 @@
-# BLENDED LEARNING
-# Implementation of Principal Component Analysis (PCA) for Dimensionality Reduction on Energy Data
-
+# Ex:10 Implementation of Principal Component Analysis (PCA) for Dimensionality Reduction on Energy Data
+### DATE:
 ## AIM:
 To implement Principal Component Analysis (PCA) to reduce the dimensionality of the energy data.
 
